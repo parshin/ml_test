@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# https://www.asozykin.ru/courses/nnpython
 
 import numpy
 from keras.datasets import mnist
